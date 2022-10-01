@@ -88,3 +88,21 @@ p {
   font-family: Georgia, "Times New Roman", Times, serif;
   font-size: smaller;
 }
+
+.footer {
+  text-align: center;
+}
+.footer-text {
+  color: white;
+  font-size: 14px;
+}
+
+.main-link {
+  color: white;
+  text-decoration: underline;
+  transition: all 0.3s ease-in-out;
+}
+
+.main-link:hover {
+  color: grey;
+}
